@@ -46,6 +46,8 @@ header > p{
     font-family: 'Times New Roman', Times, serif;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.116);
     text-indent: 0px;
+    margin: 0px;
+    padding-bottom: 15px;
 }
 
 nav{
